@@ -1,18 +1,18 @@
 body {
-	background-image: url('../images/belly.jpg');
-  	background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-	position: absolute;
-        top: 50%;
-        right: 25%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%);
+  background-image: url('../images/belly.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: absolute;
+  top: 50%;
+  right: 25%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
 
 #userInput {
-	background-color: black;
-	color: white;
+  background-color: black;
+  color: white;
 }
 
 input {
@@ -28,11 +28,11 @@ input {
 }
 
 #landingPage {
-position: absolute;
-        top: 50%;
-        left: 80%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%);	
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%); 
   color: #FF1111;
   font-size: 35px;
   text-align: right;
@@ -41,11 +41,11 @@ position: absolute;
 }
 
 #hangmanPage {
-position: absolute;
-        top: 50%;
-        left: 60%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%);	
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%); 
   color: #FF1111;
   font-size: 35px;
   text-align: right;
@@ -53,19 +53,19 @@ position: absolute;
 }
 
 h1{
-	font-size: 75px;
-	font-weight: bold;
+  font-size: 75px;
+  font-weight: bold;
 }
 
 h2 {
-	font-size: 60px;
-	font-weight: bold;
+  font-size: 60px;
+  font-weight: bold;
 }
 
-h3 {
-	font-size: 40px;
+h4{
+  font-size: 40px;
 }
 
 p{
-	font-size: 30px;
+  font-size: 30px;
 }
