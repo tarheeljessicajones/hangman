@@ -1,8 +1,8 @@
 html {
   background-image: url('../images/belly.jpg');
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
-  /*background-position: left center;*/
+  background-position: center;
   background-attachment: fixed;
   left: 0;
   right: 0;
@@ -47,7 +47,7 @@ input {
 #hangmanPage {
   position: absolute;
   top: 15%;
-  margin-left: 62%;
+  margin-left: 65%;
   color: #FF1111;
   font-size: 30px;
   text-align: center;
